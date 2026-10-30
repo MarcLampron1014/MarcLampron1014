@@ -5,10 +5,7 @@
   </h1>
 </div>
 
-Software Engineering student at **ÉTS Montréal**, interested in building intelligent systems, AI-driven applications, and software that solves real-world problems.
-
-### Currently Exploring
-Building AI-powered tools, experimenting with autonomous agents, and exploring physics simulations.
+I'm a Software Engineering student at **ÉTS Montréal**,
 
 ### Areas of Interest
 - 🤖 Autonomous Agents & Multi-Agent Systems
