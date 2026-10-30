@@ -1,4 +1,22 @@
-## Hi there 👋
+<div align="center">
+  <h1>
+    Hi, I'm Marc
+    <img src="./assets/Hi.gif" width="45" height="45" alt="👋">
+  </h1>
+</div>
+
+Software Engineering student at **ÉTS Montréal**, interested in building intelligent systems, AI-driven applications, and software that solves real-world problems.
+
+### Currently Exploring
+Building AI-powered tools, experimenting with autonomous agents, and exploring physics simulations.
+
+### Areas of Interest
+- 🤖 Autonomous Agents & Multi-Agent Systems
+- ♟️ Chess Engines & Search Algorithms
+- 🌊 Physics-Based Simulations & Fluid Dynamics
+- 🎨 Web Design & Interactive Experiences
+
+*"What I cannot create, I do not understand." -Richard Feynman*
 
 <!--
 **MarcLampron1014/MarcLampron1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
